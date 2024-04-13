@@ -1,0 +1,41 @@
+.heading{
+    border-radius: 10%;
+    background-image: linear-gradient(to bottom right,rgb(50, 247, 50),lightpink);
+    font-size: 20px;
+    font-weight: bolder;
+    width: 99%;
+    font-family: "Handjet", sans-serif;
+    height: 50px;
+}
+.note{
+    background-image: linear-gradient(to top right, rgb(111, 111, 255),rgb(238, 38, 238));
+    font-size: 17.5px;
+}
+.disc{
+    height: 100px;
+    font-family: "Handjet", sans-serif;
+    width: 100px;
+}
+.speeddiv{
+    float: left;
+    padding-left: 10px;
+    font-family: "Handjet", sans-serif;
+    font-size: 20px;
+}
+.volumediv{
+    float: right;
+    padding-right: 10px;
+    font-family: "Handjet", sans-serif;
+    font-size: 20px;
+}
+
+canvas{
+    border: 3px white solid;
+    border-radius: 10px;
+}
+
+.play{
+    width: 150px;
+    font-size: 25px;
+    font-family: "Handjet", sans-serif;
+}
